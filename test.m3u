@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:0,Test tv
+http://your-stream-link-here/live.m3u8
